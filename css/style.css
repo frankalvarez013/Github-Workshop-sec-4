@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #E8E8E8;
+		background-color: #33FFBD;
 		margin: 0px;
 		padding: 0px;
 		font-family:'open Sans', Arial;
@@ -30,6 +30,9 @@
 		width:860px;
 		margin-bottom: 20px;
 		margin-top: 30px;
+		border-radius: 15px;
+	        border-style: groove;
+	        border-color: #264653;
 	}
 	#content {
 		background-color:#FFF;
@@ -173,7 +176,7 @@
 		color: #FFF;
 	}
 	.socialicons li a:hover  {
-		color:/*mainColor*/#fdc750;
+		color:/*mainColor*/#fdc750; 
 	}
 	.social-icons li:last-child {
 		margin-right:0
@@ -315,7 +318,7 @@
 	}
 
 	.tabs {
-	  height: 116px;
+	  height: 120px;
 	  position: absolute;
 	  margin-top: -14px;
 	  z-index: 100;
@@ -337,7 +340,6 @@
 	}
 	.tabs li > a > i {
 	  font-size: 45px;
-	  speak: none;
 	  font-family: icomoon;
 	  font-style: normal;
 	  display: block;
@@ -1234,7 +1236,7 @@
 		line-height:15px;
 	}
 	.socialicons {
-		display:none; !important
+		display:none !important;
 	}
 	/*-------------------------------------------------------*/
 		/* Profile Section */
