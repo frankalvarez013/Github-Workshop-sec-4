@@ -337,7 +337,6 @@
 	}
 	.tabs li > a > i {
 	  font-size: 45px;
-	  speak: none;
 	  font-family: icomoon;
 	  font-style: normal;
 	  display: block;
@@ -1234,7 +1233,7 @@
 		line-height:15px;
 	}
 	.socialicons {
-		display:none; !important
+		display:none !important;
 	}
 	/*-------------------------------------------------------*/
 		/* Profile Section */
