@@ -8,7 +8,7 @@
 		background-color: #33FFBD;
 		margin: 0px;
 		padding: 0px;
-		font-family:'Comic Sans', Cursive;
+		font-family:'open Sans', Arial;
 		font-size: 12px;
 	}
 
@@ -30,6 +30,9 @@
 		width:860px;
 		margin-bottom: 20px;
 		margin-top: 30px;
+		border-radius: 15px;
+	        border-style: groove;
+	        border-color: #264653;
 	}
 	#content {
 		background-color:#FFF;
