@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #E8E8E8;
+		background-color: #33FFBD;
 		margin: 0px;
 		padding: 0px;
 		font-family:'open Sans', Arial;
@@ -173,7 +173,7 @@
 		color: #FFF;
 	}
 	.socialicons li a:hover  {
-		color:/*mainColor*/#fdc750;
+		color:/*mainColor*/#fdc750; 
 	}
 	.social-icons li:last-child {
 		margin-right:0
