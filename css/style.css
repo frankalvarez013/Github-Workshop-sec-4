@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-image: #F7F9F7;
+		background-image: #2596BE;
 		margin: 10px;
 		padding: 10px;
 		font-family: "Comic Sans MS", "Comic Sans";
@@ -191,7 +191,7 @@
 		/* Profile Section */
 	/*-------------------------------------------------------*/
     #profile {
-		background:/*mainColor*/#fdc750;
+		background:/*mainColor*/#74a88a;
 		background-image:url(../images/header-shadow.png);
 		background-position:center bottom;
 		background-repeat:repeat-x;
