@@ -111,7 +111,7 @@
 
 	h3.main-heading {
 		margin:0px 2px 20px 0px;
-		border-bottom:1px solid #ebebeb;
+		border-bottom:1px dotted #ebebeb;
 		padding-bottom:14px;
 		color:#333;
 		line-height:16px;
@@ -521,7 +521,7 @@
 		width:180px;
 	}
 	#portfolio-list li:hover .title {
-		color:/*mainColor*/#fdc750;
+		color:/*mainColor*/#fdc751;
 	}
 	#portfolio-list li .title {
 		font-size:14px;
