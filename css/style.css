@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #F7F9F7;
+		background-image: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);;
 		margin: 10px;
 		padding: 10px;
 		font-family: "Comic Sans MS", "Comic Sans";
