@@ -5,7 +5,7 @@
 		overflow-y:scroll;
 	}
 	body {
-		background-color: #0000;
+		background-color: blue;
 		margin: 0px;
 		padding: 0px;
 		font-family: "Comic Sans MS", "Comic Sans";
@@ -213,7 +213,7 @@
 		border-radius: 50%;
 	        border-style: groove;
 	        border-color: #264653;
-		
+
 	}
 	.about .photo-inner img {
 		background-color:#FFF;
