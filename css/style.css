@@ -192,7 +192,7 @@
 	/*-------------------------------------------------------*/
     #profile {
 		background:/*mainColor*/#fdc750;
-		background-image:url(../images/header-shadow.png);
+		background-image:url(../images/astol.jpg);
 		background-position:center bottom;
 		background-repeat:repeat-x;
 		overflow:hidden;
@@ -213,7 +213,7 @@
 		border-radius: 50%;
 	        border-style: groove;
 	        border-color: #264653;
-		
+
 	}
 	.about .photo-inner img {
 		background-color:#FFF;
