@@ -191,7 +191,7 @@
 		/* Profile Section */
 	/*-------------------------------------------------------*/
     #profile {
-		background:/*mainColor*/#fdc750;
+		background:/*mainColor*/#74a88a;
 		background-image:url(../images/header-shadow.png);
 		background-position:center bottom;
 		background-repeat:repeat-x;
@@ -226,7 +226,7 @@
 		margin-top:8px;
 	}
 	.about h3 {
-		margin-top:5px;
+		margin-top:6px;
 		font-size:18px;
 		color:#FFF;
 		line-height:18px;
