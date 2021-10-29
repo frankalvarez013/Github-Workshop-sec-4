@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9498c64-7dae-4d8a-acd7-a89557b726f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hello there.txt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Description.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Fire in Ronka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Purple Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Shuba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/WintersReborn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/png-transparent-pepe-the-frog-kermit-the-frog-meme-others-hand-grass-meme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sad guboa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/nice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sadie.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fat doge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Trinity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cat1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
