@@ -35,9 +35,9 @@
 	        border-color: #264653;
 	}
 	#content {
-		background-color:#FFF;
-		-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
-		-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+		background-color:#0000;
+		-webkit-box-shadow: 0 1px 6px rgba(255, 0, 0, 0.27), 0 0 40px rgba(0, 255, 0, 0.06) inset;
+		-moz-box-shadow: 0 1px 6px rgba(0, 255, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 		box-shadow: 0 1px 6px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
 	}
 	/*-------------------------------------------------------*/
@@ -213,7 +213,7 @@
 		border-radius: 50%;
 	        border-style: groove;
 	        border-color: #264653;
-		
+
 	}
 	.about .photo-inner img {
 		background-color:#FFF;
