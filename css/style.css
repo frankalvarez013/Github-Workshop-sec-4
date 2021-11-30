@@ -5,7 +5,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	background-image: #2596be;
+	background-image: #FF5733;
 	margin: 10px;
 	padding: 10px;
 	font-family: "Comic Sans MS", "Comic Sans";
@@ -504,7 +504,7 @@ header {
 	border-radius: 0px 4px 4px 0px;
 }
 #resume .button:hover {
-	background-color: #fdc750;
+	background-color: #fd77f2;
 }
 
 /*-------------------------------------------------------*/
