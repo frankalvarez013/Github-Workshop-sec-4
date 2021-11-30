@@ -5,7 +5,9 @@ html {
 	overflow-y: scroll;
 }
 body {
-	background-image: #FF5733;
+	background-image: url("pilk.jpg");
+	background-repeat: repeat;
+	background-color: #15f4ee;
 	margin: 10px;
 	padding: 10px;
 	font-family: "Comic Sans MS", "Comic Sans";
@@ -31,7 +33,7 @@ body {
 	margin-top: 30px;
 	border-radius: 15px;
 	border-style: groove;
-	border-color: #264653;
+	border-color: black;
 }
 #content {
 	background-color: #0000;
@@ -117,7 +119,7 @@ h6 {
 
 strong {
 	font-weight: bold;
-	color: #333;
+	color: #322;
 }
 
 h3.main-heading {
@@ -135,7 +137,7 @@ h3.main-heading {
 h3.main-heading::after {
 	content: '';
 	width: 40px;
-	height: 1px;
+	height: 2px;
 	position: absolute;
 	left: 0;
 	bottom: -1px;
@@ -214,6 +216,9 @@ header {
 	margin-top: 30px;
 	width: 490px;
 	margin-left: 20px;
+}
+.about:hover{
+	background-color: white;
 }
 .about .photo-inner {
 	float: left;
@@ -324,7 +329,7 @@ header {
 /*-------------------------------------------------------*/
 .menu {
 	height: 100px;
-	background-color: black;
+	background-color: #ededed;
 	position: relative;
 	width: 100%;
 	margin: auto;
@@ -504,7 +509,7 @@ header {
 	border-radius: 0px 4px 4px 0px;
 }
 #resume .button:hover {
-	background-color: #fd77f2;
+	background-color: #fdc750;
 }
 
 /*-------------------------------------------------------*/
