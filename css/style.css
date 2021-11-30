@@ -215,6 +215,9 @@ header {
 	width: 490px;
 	margin-left: 20px;
 }
+.about:hover{
+	background-color: white;
+}
 .about .photo-inner {
 	float: left;
 	background: url(../images/photo-inner.png) no-repeat;
