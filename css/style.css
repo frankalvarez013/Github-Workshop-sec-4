@@ -51,7 +51,6 @@ body {
 	--button-background: #fff;
 	--button-background-hover: #000;
 	--button-text: #007af7;
-
 }
 .cookie-container {
 	display: flex;
@@ -61,7 +60,7 @@ body {
 	background: var(--background);
 	color: var(--white-text);
 	position: fixed;
-	bottom:0;
+	bottom: 0;
 	font-size: 1rem;
 	gap: 2rem;
 	opacity: 1;
@@ -103,7 +102,7 @@ body {
 
 .agree button:hover {
 	background: var(--button-background-hover);
-		color: var(--white-text);
+	color: var(--white-text);
 }
 /*-------------------------------------------------------*/
 /* Generic Classes */
@@ -225,7 +224,7 @@ header {
 #logo h2 {
 	font-size: 30px;
 	font-weight: 900;
-	color: #444;
+	color: purple;
 	line-height: 40px;
 }
 #logo h4 {
@@ -281,7 +280,7 @@ header {
 	width: 490px;
 	margin-left: 20px;
 }
-.about:hover{
+.about:hover {
 	background-color: blue;
 	transition: 2s;
 }
