@@ -5,7 +5,9 @@ html {
 	overflow-y: scroll;
 }
 body {
-	background-image: #2596be;
+	background-image: url("pilk.jpg");
+	background-repeat: repeat;
+	background-color: #15f4ee;
 	margin: 10px;
 	padding: 10px;
 	font-family: "Comic Sans MS", "Comic Sans";
