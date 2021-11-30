@@ -324,7 +324,7 @@ header {
 /*-------------------------------------------------------*/
 .menu {
 	height: 100px;
-	background-color: #ededed;
+	background-color: black;
 	position: relative;
 	width: 100%;
 	margin: auto;
