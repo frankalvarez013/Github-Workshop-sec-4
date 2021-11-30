@@ -219,6 +219,7 @@ header {
 }
 .about:hover{
 	background-color: white;
+	transition: 2s;
 }
 .about .photo-inner {
 	float: left;
