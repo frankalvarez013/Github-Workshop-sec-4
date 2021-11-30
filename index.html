@@ -104,6 +104,29 @@
                 </div>
                 <!-- /Profile -->
 
+                <div class="cookie-container hide">
+                	<p class="cookie-text">
+                		We use cookies and similar technologies that are necessary to operate the website. Additional cookies are used to perform analysis of website usage. By continuing to use our website, consent to our use of cookies. For more information, please read our <a href="#"> Privacy Policy.</a>
+                	</p>
+                	<div class="agree">
+                	<button>Sounds good!</button>
+                		</div>
+                </div>
+
+
+                <script>
+                const cookieContainer = document.querySelector(".cookie-container");
+                const agreeBtn = document.querySelector(".agree button");
+
+                setTimeout(() => {
+                cookieContainer.classList.remove("hide");
+                }, 1000);
+
+                agreeBtn.addEventListener("click", () => {
+                cookieContainer.classList.add("hide");
+                });
+                </script>
+
 
 
                 <!-- Menu -->
